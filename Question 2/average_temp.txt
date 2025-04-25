@@ -1,0 +1,4 @@
+Spring Average Temperature: 27.43°C
+Summer Average Temperature: 32.10°C
+Autumn Average Temperature: 27.32°C
+Winter Average Temperature: 21.07°C
